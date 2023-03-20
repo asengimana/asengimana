@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asengimana
-- 👀 I’m interested in HTML5, CSS3, JavaScript, PHP, SQL
+- 👀 I’m interested in HTML5, CSS3, JavaScript, PHP, SQL, Reactjs, Nodejs
 - 🌱 I’m currently learning web developpment using those languages
 - 💞️ I’m looking to collaborate on coding in those langauges
 - 📫 How to reach me matchad@live.fr
